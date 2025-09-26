@@ -1,0 +1,10 @@
+# ninja log v7
+13	1139	7805936033495259	app_autogen/timestamp	5dbe550ff4fc19be
+13	1139	7805936033495259	app_autogen/mocs_compilation.cpp	5dbe550ff4fc19be
+13	1139	7805936033495259	H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/app_autogen/timestamp	5dbe550ff4fc19be
+13	1139	7805936033495259	H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/app_autogen/mocs_compilation.cpp	5dbe550ff4fc19be
+1148	8918	7805936034155351	CMakeFiles/app.dir/src/debug-drawer.cpp.obj	1c6b828e779afef4
+1146	9466	7805936034145350	CMakeFiles/app.dir/app_autogen/mocs_compilation.cpp.obj	2424566072024051
+1149	9480	7805936034165195	CMakeFiles/app.dir/src/main.cpp.obj	4bae4eecc3c17224
+1151	9495	7805936034185216	CMakeFiles/app.dir/src/mainwindow.cpp.obj	1e335ea58bc8447c
+9496	10091	7805936117640591	app.exe	6738172918af9083

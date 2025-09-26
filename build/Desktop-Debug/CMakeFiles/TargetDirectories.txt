@@ -1,0 +1,9 @@
+H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/CMakeFiles/app.dir
+H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/CMakeFiles/install.dir
+H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/CMakeFiles/install/local.dir
+H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/CMakeFiles/install/strip.dir
+H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/CMakeFiles/app_autogen_timestamp_deps.dir
+H:/projects/qt/debug-drawer-qpainter-box2dv3-qt6-cpp/build/Desktop-Debug/CMakeFiles/app_autogen.dir
